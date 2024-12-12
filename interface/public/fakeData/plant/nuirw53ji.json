@@ -1,0 +1,25 @@
+{
+  "uuid": "nuirw53ji",
+  "gardenName": "OGRÓDEK 2",
+  "gardenUUID": "90ucds09ui",
+  "plantName": "juka 1",
+  "plantSpecies": {
+    "uuid": "45tghju89okl",
+    "label": "juka"
+  },
+  "watering": {
+    "liters": 0.2,
+    "period": 7
+  },
+  "wintering": {
+    "dateFrom": "01.11.24",
+    "dateTo": "30.11.24"
+  },
+  "developmentLevel": 5,
+  "plantTime": {
+    "startDate": "08.09.2019",
+    "endDate": null
+  },
+  "journalUUID": "567hui90-k",
+  "mainPhoto": "juka.jpg"
+}
