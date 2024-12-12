@@ -1,0 +1,28 @@
+{
+  "uuid": "45tghju89okl",
+  "name": "juka",
+  "position": {
+    "uuid": "gt678uijnbg",
+    "label": "nasłonecznione"
+  },
+  "originRegion": "Ameryka Środkowa i Południowa",
+  "recommendedTemperature": {
+    "min": 10,
+    "max": 35
+  },
+  "watering": {
+    "liters": 0.2,
+    "period": 7,
+    "wintering": {
+      "shouldWintering": true,
+      "uuid": "0j8g6egho9t87",
+      "howWintering": "zmniejszyć częstotliwość podlewania w okresie zimowym",
+      "session": {
+        "uuid": "97ujy7gf54",
+        "label": "wintering"
+      }
+    }
+  },
+  "overwateringSymptoms": ["gnicie korzenia", "żółknięcie liści", "miękka łodyga"],
+  "dryingoutSymptoms": ["zasychanie końcówek liści", "więdnące łodygi", "brak wzrostu"]
+}

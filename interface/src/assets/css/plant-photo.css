@@ -1,0 +1,50 @@
+#go-to-photos-panel,
+#file-input-container,
+#image-preview {
+  width: 350px;
+  margin: 0 auto !important;
+}
+
+#go-to-photos-panel,
+#get-photo-button {
+  display: block;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+#get-photo-button {
+  min-width: 350px;
+}
+
+#image-preview {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 250px;
+  border: 1px solid black;
+  border-top: none;
+  border-bottom-left-radius: var(--bootstrap-radius);
+  border-bottom-right-radius: var(--bootstrap-radius);
+}
+
+#photo-file-input {
+  display: none;
+}
+
+.no-editable {
+  display: none !important;
+}
+
+.no-editable-layout {
+  border: 1px solid black !important;
+  border-radius: var(--bootstrap-radius);
+}
+
+.photo-panel-card-size {
+  width: 100%;
+}
+@media (min-width: 920px) {
+  .photo-panel-card-size {
+    width: 60%;
+  }
+}

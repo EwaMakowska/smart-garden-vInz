@@ -1,0 +1,20 @@
+{
+  "name": "wwww",
+  "originRegion": "Ameryka Środkowa i Południowa",
+  "sunExposureOption": { "_id":"6735c55c50cbaa833354032f" },
+  "recommendedTemperature": {
+    "min": 10,
+    "max": 35
+  },
+  "watering": {
+    "liters": 0.2,
+    "period": 7,
+    "wintering": {
+      "winteringOption": { "_id":"6735d42d50cbaa8333540337" },
+      "fromDate": "2022-11-01T00:00:00Z",
+      "toDate": "2023-02-28T00:00:00Z"
+    }
+  },
+  "overWateringSymptoms": ["gnicie korzenia", "żółknięcie liści", "miękka łodyga"],
+  "dryingOutSymptoms": ["zasychanie końcówek liści", "więdnące łodygi", "brak wzrostu"]
+}
